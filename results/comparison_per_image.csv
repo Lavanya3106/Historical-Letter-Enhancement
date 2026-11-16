@@ -1,0 +1,1591 @@
+image,stage,algorithm,measure,value
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,None,Contrast (std) ↑,74.40311462945618
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,None,Background variation % ↓,12.948575072849408
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.3849163949670755
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,88.8445864516402
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,14.553292545749663
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.471765138361811
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.02178270003059879
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,65.74285027235996
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,10.202386431987826
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.681795086084449
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.004025099973659962
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.7191291077871
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.024515567044677
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4757483249993015
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.008702300023287535
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,74.46161032677338
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,14.65551785714641
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.6343557434944325
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.06407110003056005
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,None,Noise level ↓,11.572930459570625
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,None,Time (s) ↓,6.00004568696022e-07
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,5.60703074614134
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,69.86810845774882
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.03072580002481118
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,4.8783434545050595
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,64.64487084558903
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.10650409996742383
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,8.178669534812904
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,76.70737522655125
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.07303779997164384
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Global (t=127),Ink coverage %,45.36634849480233
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.22807712456716459
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.004282500012777746
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Otsu,Ink coverage %,47.01472349963288
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,0.17857142857142858
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.009298000019043684
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,26.7858523012714
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,2.320607383094985
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.052125099988188595
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,None,Speck % of ink ↓,2.320607383094985
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,87.48192097527547
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,1.3345811962992893
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004365100001450628
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,106.6321617283728
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.3773368555994898
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004004599992185831
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,96.24533371805738
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.004496992636174558
+WhatsApp Image 2026-10-14 at 8.22.12 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.45429299998795614
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,58.9851204093994
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,None,Background variation % ↓,10.81371207461048
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,5.442174074638025
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,None,Time (s) ↓,1.100008375942707e-06
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,67.23622343555212
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,10.799513844494653
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.5497198476683
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.05396420002216473
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,53.80817773723614
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,10.218213506689416
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.17675337624833
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.01067660003900528
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.29018193755863
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.764571352947794
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.5598917348929944
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.024305200029630214
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,52.917619768739684
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,12.820540105565033
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.239718020196214
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.2195569999748841
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,None,Noise level ↓,5.069368225331267
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.7614593937537861
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,69.26306237092884
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.19823079998604953
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.5043433874217715
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,64.67263847524569
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.4033843000070192
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.0145262463128146
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,77.48970103169168
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.2930312000098638
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,26.468734519175683
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.1779434186007115
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.009444099967367947
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Otsu,Ink coverage %,28.898280065845857
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,0.11568959439128901
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.022242299979552627
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,9.195712773471396
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,2.7415535730307274
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.1820028999936767
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,2.7415535730307274
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,90.0628435231382
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,1.309355197789299
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.01950819999910891
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,104.26602587858054
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.8246304534077602
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.017121799988672137
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,91.85218704042504
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.018686508340977813
+WhatsApp Image 2026-10-14 at 8.22.14 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.49247970001306385
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,None,Contrast (std) ↑,76.89109297480232
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,None,Background variation % ↓,12.364235227035111
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.82383924199673
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,87.6777955442218
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,13.511874563168735
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.854078746155705
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.0674529000534676
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,68.35558242010691
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,9.695325808270736
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.216135916327903
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.014051100006327033
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.79550156565443
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.978451144454176
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4844858169276947
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.02678899996681139
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,74.51303062187746
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,14.212291735707701
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.7937737394047675
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.20980559999588877
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,None,Noise level ↓,10.577655773930582
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,None,Time (s) ↓,6.00004568696022e-07
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,4.768545626239321
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,73.52796219940936
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.3339589000097476
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,4.159579141756591
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,68.62246170089354
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.8772317999973893
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,7.9144154720507025
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,80.51460605036873
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.7898902000160888
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Global (t=127),Ink coverage %,45.756561455088104
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.09613695256508449
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.029001499991863966
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Otsu,Ink coverage %,47.13949930536415
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,0.05950407853947756
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.04767349996836856
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,23.957489399494964
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,2.098470960450664
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.5532006999710575
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,None,Speck % of ink ↓,2.098470960450664
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,None,Time (s) ↓,2.2999593056738377e-06
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,90.6982216889452
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,1.2106564676186633
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.04765710001811385
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,105.25503845114656
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.35747230817216
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.046195800008717924
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,97.01426193263859
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.0017968052802117833
+WhatsApp Image 2026-10-14 at 8.22.17 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,3.717720200016629
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,None,Contrast (std) ↑,37.591141738168034
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,None,Background variation % ↓,9.404240830729385
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,None,Ink-paper separation ↑,3.900497844733421
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,None,Time (s) ↓,2.00001522898674e-06
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,55.94784298653711
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,12.894510148945182
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,3.9307471163398726
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.10382110002683476
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,31.499048279613852
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,7.567396771668104
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,4.1769402097110335
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.018619999988004565
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.99383941611582
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.01384193752848
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4986976941923196
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.046366100024897605
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,44.69144446181012
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,12.013897809283321
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.5100184550617386
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.4124889000086114
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,None,Noise level ↓,7.693251540998115
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,None,Time (s) ↓,1.9999570213258266e-06
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,3.1823440486551293
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,61.375548228256704
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.23256299999775365
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.72110879497268
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,56.08241286747978
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.5893753999844193
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,5.312642884152711
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,77.06563423581005
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.6210056000272743
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Global (t=127),Ink coverage %,18.788002791509268
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,2.2606481049003655
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.021386599983088672
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Otsu,Ink coverage %,31.56576235129694
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.3778784446961119
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.044379500031936914
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,12.095262332129561
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,3.687199049942912
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.4191605999949388
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,None,Speck % of ink ↓,3.687199049942912
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,None,Time (s) ↓,2.3999600671231747e-06
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,81.92524028272598
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,2.826912768882985
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.03599960001884028
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,107.60809381431882
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,2.64830395701962
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.035663100017700344
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,92.77758048564412
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.02304858724507645
+WhatsApp Image 2026-10-14 at 8.22.22 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,1.4150415000040084
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,13.50612825980844
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,None,Background variation % ↓,4.647749656484134
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,4.680536014644928
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,None,Time (s) ↓,2.200016751885414e-06
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,45.08916442413003
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,13.24697720486197
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,4.481969179679138
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.028263900021556765
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,11.233146264579663
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,3.3126290616968666
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,4.966640901176227
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.006172000023070723
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.09255024135065
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.577601957027166
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.5499366332705007
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.01787140005035326
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,23.446284805128748
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,6.930618751852577
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.969693395626487
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.15590449998853728
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,None,Noise level ↓,5.441175748189125
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,None,Time (s) ↓,1.800013706088066e-06
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.8837571548251737
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,55.80166825404953
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.060648800048511475
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.5170591465974943
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,51.23170873782331
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.13141220004763454
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.2396300313537303
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,72.88321406838531
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.17853670002659783
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,7.501749435506033
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,6.652441557460629
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.008834400039631873
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Otsu,Ink coverage %,13.396567990004845
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,2.5927335786490717
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.021645899978466332
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,9.811145958166536
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,4.246256912259424
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.06842809997033328
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,4.246256912259424
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,None,Time (s) ↓,2.700020559132099e-06
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,69.84594504843996
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,5.4200429965272034
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.010668699978850782
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,106.52603918511139
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,2.6131388839945244
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.012433300027623773
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,92.90798573511789
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.03729661688604329
+WhatsApp Image 2026-10-14 at 8.22.25 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.374011000036262
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,29.01143383399106
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,None,Background variation % ↓,7.627381522576443
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,3.658566303861309
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,None,Time (s) ↓,2.700020559132099e-06
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,60.47471681927148
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,14.15461700926293
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,3.7239425457502358
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.14331509999465197
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,23.974445556827504
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,5.583921062793099
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,3.7607938340216904
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.02566879999358207
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.961859694082
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.341624901712525
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.450926731695229
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.06222419999539852
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,41.113569895993294
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,11.629309136190457
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.380108885082181
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.6257815999560989
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,None,Noise level ↓,7.124950926600176
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,None,Time (s) ↓,2.600019797682762e-06
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.6586180903002754
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,62.10429200053299
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.32630539999809116
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.218685067121285
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,57.639892228817125
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.43546030001016334
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.532503256430113
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,77.62808103259977
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.3913980000070296
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,24.437315672375433
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,2.5639668398508118
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.010164899984374642
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Otsu,Ink coverage %,36.042443612164725
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,1.5562021710083151
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.02121649996843189
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,14.692611505360508
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,6.143788488974771
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.18387900001835078
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,6.143788488974771
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,75.721470752894
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,4.645623282076355
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.01332280004862696
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,105.51712928683654
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,4.35429075100979
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.013450500031467527
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,88.0013725100681
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.08388228775472512
+WhatsApp Image 2026-10-14 at 8.22.29 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.742626300023403
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,None,Contrast (std) ↑,33.185720126477385
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,None,Background variation % ↓,9.886533558262453
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.885872242548545
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,49.67250776210688
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,10.9421697508768
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.856974176666948
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.030005000007804483
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,31.233588193544
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,7.604225134331916
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.795817009264208
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.004724500002339482
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.21272592460984
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.79712301195314
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.531453257761172
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.012213899986818433
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,44.60313504227116
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,12.777204640682353
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.008809026968439
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.09988290001638234
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,None,Noise level ↓,10.280056057887307
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,4.007765291011438
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,63.030869605959396
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.07595450000371784
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,3.5025264236768328
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,57.222150805599625
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.17831789999036118
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,6.8738776404128155
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,77.46139342895579
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.11942260002251714
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Global (t=127),Ink coverage %,21.13277123402033
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.3158190355653079
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.005434399994555861
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Otsu,Ink coverage %,22.530000830883544
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.3775178687459388
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.012297999986913055
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,14.909611739988843
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,2.767826340790277
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.08651170000666752
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,None,Speck % of ink ↓,2.767826340790277
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,87.85818538863678
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,1.576073167490244
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004662099992856383
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,109.83255048695699
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.8386883217922017
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004636700032278895
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,96.74388981768968
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.004388852315119597
+WhatsApp Image 2026-10-14 at 8.22.30 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.3161505000316538
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,None,Contrast (std) ↑,26.387044795149052
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,None,Background variation % ↓,8.372643392270337
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.6346921130266185
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,44.640973349137234
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,10.669598489240302
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.556401472701307
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.045028199965599924
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,24.011163322638325
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,6.46984759603742
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.415132507069317
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0060211000381968915
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.21174131109457
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.557119062308068
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.577877905074497
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.014565900026354939
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,36.11920980919818
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,11.189013585496783
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.93105930240069
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.1397761999978684
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,None,Noise level ↓,12.349251756687625
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,4.0896864463262945
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,49.65626759005125
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.10612020001281053
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,3.302796854658837
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,44.7249354088453
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.2551011000177823
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,7.004012408367436
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,66.74004708910795
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.1719079000176862
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Global (t=127),Ink coverage %,16.846302107205396
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,3.9792526344061643
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.00790569995297119
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Otsu,Ink coverage %,22.736605201612427
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,2.969293949504687
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.014583599986508489
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,13.45843763588713
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,6.446669257268603
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.11637679999694228
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,None,Speck % of ink ↓,6.446669257268603
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,59.12204791449267
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,9.904806918299375
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.006704900006297976
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,112.74270519968739
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,4.1143529885600545
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.006099199992604554
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,89.90451157693433
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.10150016269164833
+WhatsApp Image 2026-10-14 at 8.22.35 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.3812826999928802
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,None,Contrast (std) ↑,43.51326272011488
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,None,Background variation % ↓,10.161618466314055
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.169688672400554
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,None,Time (s) ↓,7.999478839337826e-07
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,59.99212909271666
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.405838406893903
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.293077829431108
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.03951760003110394
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,39.248799655754425
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,7.558781075620491
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.597454713383155
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.006567400007043034
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.15643167741494
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.072923269216385
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.5099276825802046
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.015557200007606298
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,52.61745658501346
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,14.834735891350354
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.7509668198501114
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.14662149996729568
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,None,Noise level ↓,10.538355499764187
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,3.8146444415615464
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,59.489775321409574
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.10688249999657273
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,3.1869394503086896
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,55.10109403235035
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.2519773000385612
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,6.565307072922343
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,73.25025121017703
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.17393099999753758
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Global (t=127),Ink coverage %,30.81638049571625
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.9007411899082238
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.008426400017924607
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Otsu,Ink coverage %,29.437530115526094
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.9616258318994255
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.017530100012663752
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,18.079305198086708
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,4.95010888289401
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.1151586000341922
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,None,Speck % of ink ↓,4.95010888289401
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,77.06958754509702
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,2.6695344129554655
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.006241600029170513
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,107.56004810348749
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,3.0326655183875744
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.006485999969299883
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,91.59099034680014
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.08978062299945351
+WhatsApp Image 2026-10-14 at 8.22.41 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.5255530999857001
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,None,Contrast (std) ↑,24.697685205682003
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,None,Background variation % ↓,7.43742602542252
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.300905538743365
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,46.25907427154347
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.34276625299465
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.133093675196976
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.028427799989003688
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,21.774542821734247
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,5.377353811781491
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.8074571818792755
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.004388700006529689
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.07456232813863
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.30042560372179
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4785155971555324
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.01085560000501573
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,31.870141869889725
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,10.311032279257518
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.430959733139014
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.10272960003931075
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,None,Noise level ↓,7.337795734182196
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.4821655670710863
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,56.85124198317265
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.07727569999406114
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.170344403627139
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,51.80892167651913
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.18651650001993403
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.9391372482386746
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,71.09129429817352
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.12531059997854754
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Global (t=127),Ink coverage %,13.657685573368173
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,2.435580041145089
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.005588500003796071
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Otsu,Ink coverage %,15.404403185634482
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,3.0075071748393714
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.011779499996919185
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.937893779377192
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,11.223877612238777
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.07497750001493841
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,None,Speck % of ink ↓,11.223877612238777
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,65.84541545845416
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,5.485027030310393
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004728899977635592
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,113.36966303369663
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,5.997477531508807
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004571500001475215
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,85.44945505449455
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.1240375389080016
+WhatsApp Image 2026-10-14 at 8.22.42 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.16889890003949404
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,None,Contrast (std) ↑,20.351311830003088
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,None,Background variation % ↓,5.679539331658133
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,None,Ink-paper separation ↑,6.108407486560769
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,46.90679040059135
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,9.99622139396162
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.92948297757824
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.008140200050547719
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,17.851967090126976
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,4.207410169474972
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.5438974587415
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0025750999921001494
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.35733897476223
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.148445035467773
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.475956551705257
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.004203699994832277
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,CLAHE,Contrast (std) ↑,31.160311276996286
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,CLAHE,Background variation % ↓,8.46856521487381
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.141373756550052
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Enhancement,CLAHE,Time (s) ↓,0.042835399974137545
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,None,Noise level ↓,5.022900881049707
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.0410379356947574
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,63.232124198178
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.02030090003972873
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.7621079631771797
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,57.91609419663975
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.040242500021122396
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.4816459046761445
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,76.28568836368717
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.058344900025986135
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Global (t=127),Ink coverage %,12.531293345512365
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.9719006962957963
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Global (t=127),Time (s) ↓,0.003658199973870069
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Otsu,Ink coverage %,16.072515984979194
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Otsu,Speck % of ink ↓,0.6498802852106191
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Otsu,Time (s) ↓,0.0065620000241324306
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Adaptive (C=25),Ink coverage %,12.35452823167225
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,0.743910091847795
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.026758799969684333
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,None,Speck % of ink ↓,0.743910091847795
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,86.68264019624623
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,1.3636423466231424
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0033419999526813626
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,105.14918135660905
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.4231862670630873
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0027510999934747815
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,95.06874322551201
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.03360416691669767
+WhatsApp Image 2026-10-14 at 8.22.43 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.1472770000109449
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,None,Contrast (std) ↑,13.913066266120564
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,None,Background variation % ↓,4.307699030027915
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,None,Ink-paper separation ↑,6.423043743377778
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,44.84873553820576
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,10.88700418550291
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,6.145677289504715
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.006422000005841255
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,11.647238961218822
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,3.065607412892669
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.79104520499829
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0017974000074900687
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.89114136168325
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.818014942405558
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.5681410629886536
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.0044849999831058085
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,CLAHE,Contrast (std) ↑,21.5851099556795
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,CLAHE,Background variation % ↓,6.599416604148548
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.597175565043527
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Enhancement,CLAHE,Time (s) ↓,0.029635399987455457
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,None,Noise level ↓,3.3046072430085607
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,None,Time (s) ↓,6.00004568696022e-07
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.389099265762987
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,69.8340544058397
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.012869700032752007
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.2271958020065719
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,64.05798488270766
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.02778290002606809
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,2.2390100546949725
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,81.1167007022042
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.035136999969836324
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Global (t=127),Ink coverage %,6.5874740980226205
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.8133588021443097
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Global (t=127),Time (s) ↓,0.0020784000516869128
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Otsu,Ink coverage %,9.023325479021683
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Otsu,Speck % of ink ↓,0.31713900134952766
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Otsu,Time (s) ↓,0.004735400027129799
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Adaptive (C=25),Ink coverage %,8.296750912784669
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,0.273972602739726
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.01419080002233386
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,None,Speck % of ink ↓,0.273972602739726
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,94.79941291585126
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,0.2709397739588172
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0022471999982371926
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,105.77544031311155
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.18269697740570293
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.00208470004145056
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,99.72602739726028
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.0
+WhatsApp Image 2026-10-14 at 8.22.44 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.0670420000096783
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,None,Contrast (std) ↑,23.61002828272651
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,None,Background variation % ↓,8.50609445338458
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,None,Ink-paper separation ↑,5.878509322834444
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,None,Time (s) ↓,7.999478839337826e-07
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,45.552656989859024
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.409504240237995
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.718107330582403
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.005433099984657019
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,22.098761443661473
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,6.252242575107175
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.653909523706504
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0019865999929606915
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.00071638839974
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.390923708833967
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.434217994077251
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.0045267000095918775
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,CLAHE,Contrast (std) ↑,31.23960049177551
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,CLAHE,Background variation % ↓,10.850825157758793
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.010951870128808
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Enhancement,CLAHE,Time (s) ↓,0.031041399983223528
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,None,Noise level ↓,11.99705729950941
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,3.5798930409918923
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,43.26011242494292
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.011755999992601573
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.486889798418199
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,39.82076481682147
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.021782099967822433
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,5.551152319218411
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,60.82522093984903
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.043534700002055615
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Global (t=127),Ink coverage %,14.4756513001495
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Global (t=127),Speck % of ink ↓,4.473884703292982
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Global (t=127),Time (s) ↓,0.0020804000087082386
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Otsu,Ink coverage %,11.451568103652509
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Otsu,Speck % of ink ↓,5.585775177899449
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Otsu,Time (s) ↓,0.0053121999953873456
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Adaptive (C=25),Ink coverage %,11.18198008316382
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,5.700352504977078
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.015570699993986636
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,None,Speck % of ink ↓,5.700352504977078
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,54.00814596993663
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,10.294217111937774
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0020641000010073185
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,112.67191466822524
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,3.6521908281865487
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.002244900038931519
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,90.75998611897501
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.0281735490622233
+WhatsApp Image 2026-10-14 at 8.22.45 PM (3).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.09184860001550987
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,None,Contrast (std) ↑,20.88703948728257
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,None,Background variation % ↓,12.797426397832744
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,None,Ink-paper separation ↑,4.813456814370007
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,44.063486875672616
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,14.742301658772538
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,4.723353361299195
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.03170769999269396
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,21.661963730508674
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,9.238139903109055
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.926183504898689
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.004501599993091077
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.67861560943327
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.42724010676837
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.564534899580477
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.01059049996547401
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,26.160175634495918
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,9.524696125692076
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.5182995209004564
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.09458510001422837
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,None,Noise level ↓,4.850833069527117
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,None,Time (s) ↓,6.00004568696022e-07
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.890843153006105
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,65.41072940019858
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.07287139998516068
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.6564319990555911
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,59.46567709247017
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.17190329998265952
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,2.980703334605468
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,78.83650625828705
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.09116110001923516
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Global (t=127),Ink coverage %,63.88172873076885
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.3399473701816398
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.004900600004475564
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Otsu,Ink coverage %,31.117972991141585
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,0.9230593150018599
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.01066309999441728
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.220288608537164
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,3.197602722833325
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.07304190000286326
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,None,Speck % of ink ↓,3.197602722833325
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,None,Time (s) ↓,1.100008375942707e-06
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,89.63522912247818
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,2.396577104571657
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004563999944366515
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,105.82054949933408
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.6256467626905327
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004467899969313294
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,93.67508508854141
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.030277898450561457
+WhatsApp Image 2026-10-14 at 8.22.46 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.13291169999865815
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,None,Contrast (std) ↑,22.519581674040136
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,None,Background variation % ↓,11.815171458842284
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.540321826655503
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,46.870874530222935
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,13.32018707272071
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.479994784272917
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.010135899996384978
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,23.2715876758923
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,8.571100114875623
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.659324278883029
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0030165999778546393
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.90366744203153
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.45131916254631
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4291821968320906
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.008087099995464087
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,27.201146468719276
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,11.609960635732943
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.5471696367693815
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.05025420000310987
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,None,Noise level ↓,7.286128814928389
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.5054750290739927
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,54.026429447477476
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.024303599959239364
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.0122522713999667
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,49.094457216549905
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.05090929998550564
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.365388060273378
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,70.41103405740826
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.06710730004124343
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Global (t=127),Ink coverage %,57.11609270088802
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.4765426012653028
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.002625799970701337
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Otsu,Ink coverage %,9.043510697181913
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,4.426733371475711
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.003117399988695979
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,8.590113830529685
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,3.8983596912689626
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.02838299999712035
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,None,Speck % of ink ↓,3.8983596912689626
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,None,Time (s) ↓,1.300009898841381e-06
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,77.38727254899214
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,6.1144698258697465
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.003564200014807284
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,109.40481026488675
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.7118804655390958
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0033457999816164374
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,92.70335766014371
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.10879419764279238
+WhatsApp Image 2026-10-14 at 8.22.47 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.11562799999956042
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,None,Contrast (std) ↑,21.453407096859223
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,None,Background variation % ↓,11.87544318863061
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,None,Ink-paper separation ↑,5.376620748716779
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,45.61880680860848
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,13.71209695161291
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.285054946038684
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.019987199979368597
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,22.11149947171857
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,8.598569156254001
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.494935492019411
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0028591000009328127
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.78261404917647
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.692698891342516
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.529507216152379
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.0069414000026881695
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,25.249044994489754
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,10.710062155726744
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.9439013227151785
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.04666419996647164
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,None,Noise level ↓,6.637066586724569
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.317337286673152
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,53.19441231284846
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.025065299996640533
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.856328021699493
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,48.511342139339796
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.047864200023468584
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.054169167119313
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,69.93996047187632
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.06629459996474907
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Global (t=127),Ink coverage %,59.71344466833567
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.46313950639639545
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.0037678999942727387
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Otsu,Ink coverage %,8.638385133622355
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.920301593379083
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.0069626999902538955
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.692699110541207
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,1.9595846011377167
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.02549229998840019
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,None,Speck % of ink ↓,1.9595846011377167
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,75.65154120915464
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,4.435166564658564
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0033129999646916986
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,108.82226484984787
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.3858708040178096
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0028732999926432967
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,92.94384177801297
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.11920647629214483
+WhatsApp Image 2026-10-14 at 8.22.48 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.09963030001381412
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,None,Contrast (std) ↑,19.356542733600435
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,None,Background variation % ↓,12.148446069336833
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,None,Ink-paper separation ↑,4.879916420652707
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,44.66374031231217
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,15.123865878231923
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,4.740714831880073
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.009226099995430559
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,19.708492905198522
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,8.742196973463926
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.889868952286954
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.002922500018030405
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.76381792506618
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.002643806718147
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4802524288553816
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.004486099991481751
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,23.831055845464572
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,11.077812635406099
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,4.820199220808913
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.046566100034397095
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,None,Noise level ↓,6.680357186514969
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.2194855941721676
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,51.02148291850064
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.024535100033972412
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.7132517214291367
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,46.65235022491286
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.044660800020210445
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.679739226673477
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,68.62040477751003
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.0615076000103727
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Global (t=127),Ink coverage %,69.98854569561362
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.5970963481094128
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.003353899985086173
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Otsu,Ink coverage %,15.677621479697375
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,2.5813392939057036
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.00738869997439906
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,6.835316915497046
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,6.708751793400287
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.026186199975199997
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,None,Speck % of ink ↓,6.708751793400287
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,64.2104256336681
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,7.093487457546327
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0031992000294849277
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,109.8880918220947
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,3.8785599888587146
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0029997999663464725
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,89.10186513629841
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.20181201425565715
+WhatsApp Image 2026-10-14 at 8.22.49 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.08562599995639175
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,None,Contrast (std) ↑,18.347503565853007
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,None,Background variation % ↓,10.653989678867362
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,None,Ink-paper separation ↑,4.55488947965149
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,49.36932746715416
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,14.171509367911531
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,4.51461701791215
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.0065731999929994345
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,19.017297576066444
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,7.737939695982357
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.248519173925913
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0018853000365197659
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.80022597159632
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.145669788630002
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4620645492379856
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.004307299968786538
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,28.58189816402004
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,11.96712753625464
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.922783116327138
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.03332719998434186
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,None,Noise level ↓,5.864209062337275
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,None,Time (s) ↓,6.00004568696022e-07
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.114541092104177
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,62.43471457142222
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.013534200028516352
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.787733749676071
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,56.965559071991336
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.026543900021351874
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.4868522060408695
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,76.59857657336718
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.048825400008354336
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Global (t=127),Ink coverage %,63.02610640898503
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.41897269359191325
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.0022108000121079385
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Otsu,Ink coverage %,21.524334463381074
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,0.8893015946713333
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.002032899996265769
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,10.602269320357003
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,1.819928580491961
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.018391499994322658
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,None,Speck % of ink ↓,1.819928580491961
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,81.23334602207841
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,3.3672513053956354
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.002520599984563887
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,105.6446788841155
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.3246169420565879
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0022950000129640102
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,95.69307738321822
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.07955901574131954
+WhatsApp Image 2026-10-14 at 8.22.50 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.08790589997079223
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,21.814942764489288
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,None,Background variation % ↓,9.652890503678035
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,3.0634526011158836
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,46.71334736600128
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.722792515565562
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,3.079777504774417
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.012892599974293262
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,21.877869058841526
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,9.946471123398387
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,5.020826629616059
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0037045000353828073
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.68295301118182
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.201101338674817
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.463856842488389
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.00872209999943152
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,29.314139175490855
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,11.378105296516576
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.2052364993875977
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.051650699984747916
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,None,Noise level ↓,10.260212237845039
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,3.0649684010492173
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,47.34350650049888
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.02570160001050681
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.371386131917688
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,43.12785293686113
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.05932040000334382
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,5.059386480594808
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,63.43279182481567
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.07252430001972243
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,59.77191846920631
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.30160222517156926
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.00365359999705106
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Otsu,Ink coverage %,37.851463100609635
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,0.31884782655665955
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.0036569000221788883
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,8.725094109042647
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,1.0069630423138725
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.03670080000301823
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,1.0069630423138725
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,60.44456347080879
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,17.800177226406735
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0031098999897949398
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,110.51821103374397
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.5125098443084752
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.003318500006571412
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,95.62801285484734
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.1330252748022124
+WhatsApp Image 2026-10-14 at 8.22.52 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.12127379997400567
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,18.041513775844944
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,None,Background variation % ↓,8.223818323035346
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,3.05557863474643
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,50.57045163466259
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,12.842991354444788
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,3.1392098721167363
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.022673900006338954
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,17.170558446558164
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,5.896418458937405
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,3.1660576801626035
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0033854999928735197
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.6100096293097
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.706624517211758
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.525118794698804
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.008492699998896569
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,24.907307941886273
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,9.354849573860074
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.268817704140757
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.056399499997496605
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,None,Noise level ↓,7.449399614929027
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.4718872455520686
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,49.75418721444399
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.030117699992842972
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.913941974717529
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,45.30717090603502
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.07036789995618165
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.052679439186114
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,68.20911402793445
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.08398120000492781
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,63.51886259837875
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.4712765093036484
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.0015033999807201326
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Otsu,Ink coverage %,41.399759003657074
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,0.7874396381085166
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.004826700023841113
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.414113453662975
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,3.98357697935757
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.043928599974606186
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,3.98357697935757
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,None,Time (s) ↓,1.100008375942707e-06
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,55.39217775504696
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,12.508335470633497
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.003770400013308972
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,112.00897867564534
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.9329798838182695
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.003729299991391599
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,94.40395516344884
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.028592927012791574
+WhatsApp Image 2026-10-14 at 8.22.53 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.11537909996695817
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,16.377990562154782
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,None,Background variation % ↓,6.498988185585761
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,2.979742942056682
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,51.0491229619655
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,13.590420708953154
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,3.0708520931233316
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.016565099998842925
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,14.622340290925726
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,4.670750702228132
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,3.0490670982612573
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.003854900016449392
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.77932123475377
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.302673086939883
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4483887205992136
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.008857299981173128
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,20.652204725197272
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,7.516373350417327
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.438469677418042
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.05919430003268644
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,None,Noise level ↓,5.727113265147014
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,None,Time (s) ↓,7.999478839337826e-07
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.7750780761023368
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,47.29588162538278
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.03444439999293536
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.3331326470572784
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,43.4476295081415
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.055809899989981204
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,2.8836901979014185
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,67.8992463539554
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.08397380000678822
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,34.21186990727152
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.2956960174491494
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.004223699972499162
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Otsu,Ink coverage %,30.747264241036177
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,1.4050561854405255
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.00930149998748675
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,5.402994762060284
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,13.571934120167569
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.04458700004033744
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,13.571934120167569
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,39.870306253228
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,20.668809672312047
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.00361070001963526
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,110.36210953191652
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,6.832599577079073
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.003815600008238107
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,82.13746006848136
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.0652087845548336
+WhatsApp Image 2026-10-14 at 8.22.54 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.08799339999677613
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,None,Contrast (std) ↑,15.17830283595471
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,None,Background variation % ↓,7.214493364050369
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,None,Ink-paper separation ↑,2.8654195692801565
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,49.3294958481659
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,14.123079205145608
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,2.868931556229197
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.01066299999365583
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,14.187447930909673
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,5.2953935854665435
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,2.935950503537168
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0033719000057317317
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,73.7234787045948
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.033309604609553
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.6356337142850257
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.005500399973243475
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,CLAHE,Contrast (std) ↑,20.729597173988815
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,CLAHE,Background variation % ↓,8.815050745725747
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,3.2654245621313196
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Enhancement,CLAHE,Time (s) ↓,0.05276300001423806
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,None,Noise level ↓,6.159410460063804
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.9520868657526738
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,46.50868960199027
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.027385100023820996
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.4121754687559505
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,43.00705233294452
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.052040799986571074
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.0637848724379286
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,67.87551144263671
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.07309180003358051
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Global (t=127),Ink coverage %,66.774928289455
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Global (t=127),Speck % of ink ↓,0.40676893448995666
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Global (t=127),Time (s) ↓,0.0012450999929569662
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Otsu,Ink coverage %,27.332935730311554
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Otsu,Speck % of ink ↓,1.3902454229961971
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Otsu,Time (s) ↓,0.004526200005784631
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Adaptive (C=25),Ink coverage %,5.451364630371191
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,10.48825723633484
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.03254809998907149
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,None,Speck % of ink ↓,10.48825723633484
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,42.5719465688624
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,13.314405991482698
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.003468999988399446
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,110.36530727071916
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,4.51464285039935
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0032240000437013805
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,87.40700606414237
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.002384131222582491
+WhatsApp Image 2026-10-14 at 8.22.55 PM (2).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.08100089995423332
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,None,Contrast (std) ↑,20.578770372787737
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,None,Background variation % ↓,8.482622303383401
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,None,Ink-paper separation ↑,5.751915010619873
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,47.807993175636064
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.320675708872143
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,5.622614783800192
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.009672900021541864
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,19.886207863874287
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,6.22436943171279
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,6.437605795444649
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0026356999878771603
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.58042666099367
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.438096441162678
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.441212103241091
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.004765399964526296
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,CLAHE,Contrast (std) ↑,26.141056231054293
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,CLAHE,Background variation % ↓,9.058024134968393
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.728737746280015
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Enhancement,CLAHE,Time (s) ↓,0.0485377999721095
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,None,Noise level ↓,6.694238028290705
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.196070674440448
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,51.67653371671871
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.021827600023243576
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.746517109541729
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,47.31857004677511
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.04750919999787584
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.655357956516296
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,65.98862387483602
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.0665261999820359
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Global (t=127),Ink coverage %,24.464725706363428
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.5999777549147733
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Global (t=127),Time (s) ↓,0.003383600036613643
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Otsu,Ink coverage %,11.032289927713991
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Otsu,Speck % of ink ↓,4.432276443819601
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Otsu,Time (s) ↓,0.00388780003413558
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Adaptive (C=25),Ink coverage %,8.506429277942631
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,4.446434854931064
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.03492579999146983
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,None,Speck % of ink ↓,4.446434854931064
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,75.56540097885545
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,4.0046565774155995
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0034109000116586685
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,110.95774287450817
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.3895896097905525
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.00331579998601228
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,92.22993506285788
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.024278579356270813
+WhatsApp Image 2026-10-14 at 8.34.55 PM (1).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.10185880004428327
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,None,Contrast (std) ↑,20.281868442593833
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,None,Background variation % ↓,8.328820880614613
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,None,Ink-paper separation ↑,6.787616286983411
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,41.66690699641225
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.443108830447432
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,6.427891670984477
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.029431100003421307
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,19.25008876548854
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,6.045351065510068
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,7.938312217860349
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.004004599992185831
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.66260354217577
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.955819808717564
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4969241043403607
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.010797400027513504
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,CLAHE,Contrast (std) ↑,24.3538828126806
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,CLAHE,Background variation % ↓,10.36296654752417
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.496750880252034
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Enhancement,CLAHE,Time (s) ↓,0.08880660001887009
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,None,Noise level ↓,6.390971358857855
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.1884376457444557
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,51.81879279719218
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.06924480001907796
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.7579098163057774
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,47.18805370582323
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.16293400002177805
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.7015399629177286
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,67.56882890093601
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.07978000002913177
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Global (t=127),Ink coverage %,17.32545659526494
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.2217849408629018
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Global (t=127),Time (s) ↓,0.005007200001273304
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Otsu,Ink coverage %,18.49542277339346
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Otsu,Speck % of ink ↓,1.1464489827764448
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Otsu,Time (s) ↓,0.00882310001179576
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Adaptive (C=25),Ink coverage %,5.269718151071026
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,2.669952762374204
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.07277339999563992
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,None,Speck % of ink ↓,2.669952762374204
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Opening 3x3,Ink retained % ↑,69.85862942424865
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,5.421760540951074
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004320200008805841
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Closing 3x3,Ink retained % ↑,110.9228452112001
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.356272180219102
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004394899995531887
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,95.90607243102622
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.02498393889642373
+WhatsApp Image 2026-10-14 at 8.34.56 PM (2).jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.10472859995206818
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,None,Contrast (std) ↑,24.661047062326098
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,None,Background variation % ↓,8.449361780976048
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,None,Ink-paper separation ↑,8.432333038819719
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,45.741125360287384
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,8.83992727576802
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,8.42984143167822
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.03117299999576062
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,25.881100803603367
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,6.445112108257535
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,10.015457216920204
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0041868999833241105
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.89513630772315
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.233787352803645
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.4820072748329576
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.010395800054538995
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,28.31071266451682
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,9.269401175579668
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,7.379816743938212
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.09645990002900362
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,None,Noise level ↓,8.218476851755558
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,None,Time (s) ↓,6.00004568696022e-07
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.8190250425389385
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,55.15310006768998
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.07172209996497259
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.283152581966743
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,50.01215690363775
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.1688328000018373
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.979924870227591
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,71.49148718641459
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.08921030000783503
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Global (t=127),Ink coverage %,23.154994999939966
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.2860021334597607
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.005115600011777133
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Otsu,Ink coverage %,7.557294856027432
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,2.3241826208336644
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.011469400022178888
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.923422751216568
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,2.335851752430022
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.07622370001627132
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,None,Speck % of ink ↓,2.335851752430022
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,None,Time (s) ↓,1.200009137392044e-06
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,76.43041153421514
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,5.1422582883686685
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0046255000052042305
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,107.75333925053579
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.4816823875679312
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004331599979195744
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,94.82605589591496
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.07647877999223797
+WhatsApp Image 2026-10-14 at 8.34.57 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.16142620000755414
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,None,Contrast (std) ↑,21.60963536695037
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,None,Background variation % ↓,7.424885526220047
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,None,Ink-paper separation ↑,8.527393851560275
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,42.57375971739711
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,8.448858598796544
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,8.515990859326239
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.025609000003896654
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,21.958334291460044
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,5.643204481982064
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,9.853523789805372
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.003911699983291328
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,75.04384721076227
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,18.60432944446066
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.5716887410407705
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.011754400038626045
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,25.27914399990627
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,8.48266292338209
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,7.471464625298086
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.08672780002234504
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,None,Noise level ↓,8.614935339187177
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,None,Time (s) ↓,6.999471224844456e-07
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.7335064809742553
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,47.475194962045
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.07128100004047155
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.0698309305025644
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,43.69070954571
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.15838290000101551
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.731858179983224
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,65.43886553296898
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.08063189999666065
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Global (t=127),Ink coverage %,18.943557933179786
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.5185642665116617
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.004738699994049966
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Otsu,Ink coverage %,7.210104699070463
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,3.5889277760101814
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.010431900038383901
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.073748153313941
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,3.2352216269506675
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.0770145999849774
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,None,Speck % of ink ↓,3.2352216269506675
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,61.7883225881773
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,6.546019482700706
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004385799984447658
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,110.02737096083747
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.7191784859524399
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0043738000094890594
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,91.60969788166923
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.007080047011512157
+WhatsApp Image 2026-10-14 at 8.34.58 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.12834539997857064
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,None,Contrast (std) ↑,25.928244389779763
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,None,Background variation % ↓,4.461937311724719
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,None,Ink-paper separation ↑,8.48521441053042
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,45.87245663878374
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,7.121024353173498
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,8.416377384872876
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.029477000003680587
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,21.265869851924155
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,3.4705916136512203
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,8.795347835981406
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.004792899999301881
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,75.41456129857055
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,17.996828565751528
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.710220445320611
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.011555699980817735
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,36.56896289101357
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,7.079116457794505
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,6.318950860491124
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.10061210003914312
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,None,Noise level ↓,4.137137993614962
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,None,Time (s) ↓,6.999471224844456e-07
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.04583335627419
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,84.61313537085778
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.07657789997756481
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.8259692144409385
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,79.71185550821885
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.18571050005266443
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.059168157054498
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,92.350200174056
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.11313999997219071
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Global (t=127),Ink coverage %,7.757724810884388
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,1.6662728701601552
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.005485999980010092
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Otsu,Ink coverage %,13.83492669678065
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,0.6728149355699053
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.012547900027129799
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,14.248223604306066
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,0.7276896831389659
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.07600179995642975
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,None,Speck % of ink ↓,0.7276896831389659
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,None,Time (s) ↓,7.999478839337826e-07
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,96.42699331599407
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,0.5603345765877596
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0045211000251583755
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,103.0360488855329
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.6514198237909377
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.004646699992008507
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,97.67430153536371
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.03722219358976561
+WhatsApp Image 2026-10-22 at 2.43.29 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.29292969999369234
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,None,Contrast (std) ↑,11.687749789246917
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,None,Background variation % ↓,2.8186132343937222
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,None,Ink-paper separation ↑,4.511912065657342
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,45.13248129123235
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,11.696225000283388
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,4.125841359112056
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.004595100006554276
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,8.752466000513019
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,2.0195787450297202
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,4.711818029380212
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0017345999949611723
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,74.3684919165517
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.022450396713054
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.504034793863901
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.0032936999923549592
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,21.200886032131216
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,4.394778157774252
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,5.645142451904359
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.027291700011119246
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,None,Noise level ↓,4.555170028082933
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.7289612045444336
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,66.76713815490416
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.011077699949964881
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.479460515135876
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,60.4034355724793
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.021917800011578947
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,2.8238454496792404
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,78.51096977744483
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.034270100004505366
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Global (t=127),Ink coverage %,0.46002423321759256
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,48.746928746928745
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.0018491999944671988
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Otsu,Ink coverage %,13.023998119212962
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.5534418717672787
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.004709000000730157
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,8.869086371527777
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,3.277769281745425
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.010679899947717786
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,None,Speck % of ink ↓,3.277769281745425
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,77.04032216954683
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,8.31072586514921
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.001833299989812076
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,106.50965998878523
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,1.598545036852685
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0017979000112973154
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,92.92195544680634
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.12891900046630278
+WhatsApp Image 2026-10-22 at 2.43.31 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.062448899960145354
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,None,Contrast (std) ↑,28.73327656786496
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,None,Background variation % ↓,4.4732091875273
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,None,Ink-paper separation ↑,8.213872458020031
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,52.06202397088962
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,7.661116591816801
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,8.091837167672287
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.03656590002356097
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,23.08908391683965
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,3.369189302797819
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,8.487738100022057
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.005821999977342784
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,75.86399902340456
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.810498941520628
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.462546324462656
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.013042900012806058
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,40.97190200985544
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,6.853640760402229
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,6.729541504262004
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.11514389998046681
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,None,Noise level ↓,6.553171497379929
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,2.7912905222270012
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,74.65674417233853
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.10021469998173416
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,2.455912159534469
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,68.85336192873666
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.22170250001363456
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,4.462382850671734
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,85.46503419211112
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.14641029998892918
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Global (t=127),Ink coverage %,9.456686467037946
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,3.5238248663944356
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.0073519000434316695
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Otsu,Ink coverage %,16.835128790728977
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.0776421708647104
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.014216299983672798
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,17.46490777195483
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,1.1495255504903783
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.09864109999034554
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,None,Speck % of ink ↓,1.1495255504903783
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,None,Time (s) ↓,8.00006091594696e-07
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,92.0853023051192
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,0.9925660509462326
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.0056217999663203955
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,104.01632318696572
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.8830907446839542
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.005577299976721406
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,93.09488231680028
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.03136877869530324
+WhatsApp Image 2026-10-22 at 2.43.33 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.43984579999232665
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,None,Contrast (std) ↑,15.097987318562398
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,None,Background variation % ↓,2.292799700790717
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,None,Ink-paper separation ↑,11.667984606527618
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,None,Time (s) ↓,1.00000761449337e-06
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Contrast Stretch,Contrast (std) ↑,40.35364021240266
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Contrast Stretch,Background variation % ↓,5.911115972347116
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Contrast Stretch,Ink-paper separation ↑,11.34268154020099
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Contrast Stretch,Time (s) ↓,0.0035626000026240945
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Contrast (std) ↑,11.759493560259063
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Background variation % ↓,1.666120391598912
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Ink-paper separation ↑,12.068011567724799
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Gamma Correction (0.7),Time (s) ↓,0.0021806000149808824
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Histogram Equalization,Contrast (std) ↑,76.11705646584575
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Histogram Equalization,Background variation % ↓,19.297434958875474
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Histogram Equalization,Ink-paper separation ↑,3.5401025650763764
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,Histogram Equalization,Time (s) ↓,0.0031956000020727515
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,CLAHE,Contrast (std) ↑,22.306243654985284
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,CLAHE,Background variation % ↓,4.083229779068946
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,CLAHE,Ink-paper separation ↑,8.468279373378262
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Enhancement,CLAHE,Time (s) ↓,0.030041499994695187
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,None,Noise level ↓,5.411086690131417
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,None,Edge retention % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,None,Time (s) ↓,7.00005330145359e-07
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Mean Filter 3x3,Noise level ↓,1.9231713181805905
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Mean Filter 3x3,Edge retention % ↑,59.42188893500503
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Mean Filter 3x3,Time (s) ↓,0.012593400024343282
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Noise level ↓,1.624411585942946
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Edge retention % ↑,53.58172407957997
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Gaussian Filter 5x5,Time (s) ↓,0.02421960001811385
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Median Filter 3x3,Noise level ↓,3.2287463659758378
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Median Filter 3x3,Edge retention % ↑,74.22321669355867
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Noise Removal,Median Filter 3x3,Time (s) ↓,0.04022079997230321
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Global (t=127),Ink coverage %,1.323651879770255
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Global (t=127),Speck % of ink ↓,24.274363547916327
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Global (t=127),Time (s) ↓,0.0007785999914631248
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Otsu,Ink coverage %,7.529383483434497
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Otsu,Speck % of ink ↓,1.1259977194982898
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Otsu,Time (s) ↓,0.0017031000461429358
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Adaptive (C=25),Ink coverage %,7.4143393116237535
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Adaptive (C=25),Speck % of ink ↓,0.6889763779527559
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Binarization,Adaptive (C=25),Time (s) ↓,0.01608299999497831
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,None,Ink retained % ↑,100.0
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,None,Speck % of ink ↓,0.6889763779527559
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,None,Time (s) ↓,9.00006853044033e-07
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Opening 3x3,Ink retained % ↑,71.88223714682724
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Opening 3x3,Speck % of ink ↓,4.119850187265917
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Opening 3x3,Time (s) ↓,0.004170300031546503
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Closing 3x3,Ink retained % ↑,107.33846688281612
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Closing 3x3,Speck % of ink ↓,0.5528735942177513
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Closing 3x3,Time (s) ↓,0.0028753000078722835
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Remove Specks + Clear Border,Ink retained % ↑,91.35884668828162
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Remove Specks + Clear Border,Speck % of ink ↓,0.1299153965588263
+WhatsApp Image 2026-10-22 at 2.46.58 PM.jpeg,Cleanup,Remove Specks + Clear Border,Time (s) ↓,0.05841920000966638

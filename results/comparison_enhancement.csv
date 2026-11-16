@@ -1,0 +1,6 @@
+Algorithm,Contrast (std) ↑,Background variation % ↓,Ink-paper separation ↑,Time (s) ↓
+None,27.287,8.326,5.627,0.0
+Contrast Stretch,51.087,11.72,5.551,0.03
+Gamma Correction (0.7),24.932,6.357,6.243,0.006
+Histogram Equalization,74.281,18.97,3.511,0.013
+CLAHE,33.737,9.961,4.919,0.112

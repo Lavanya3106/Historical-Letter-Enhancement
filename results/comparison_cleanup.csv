@@ -1,0 +1,5 @@
+Algorithm,Ink retained % ↑,Speck % of ink ↓,Time (s) ↓
+None,100.0,3.95,0.0
+Opening 3x3,74.287,5.704,0.008
+Closing 3x3,108.21,2.159,0.007
+Remove Specks + Clear Border,92.712,0.059,0.372

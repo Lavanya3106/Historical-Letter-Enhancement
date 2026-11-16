@@ -1,0 +1,5 @@
+Algorithm,Noise level ↓,Edge retention % ↑,Time (s) ↓
+None,7.327,100.0,0.0
+Mean Filter 3x3,2.667,58.862,0.077
+Gaussian Filter 5x5,2.198,53.996,0.169
+Median Filter 3x3,4.404,73.397,0.146

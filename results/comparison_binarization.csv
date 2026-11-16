@@ -1,0 +1,4 @@
+Algorithm,Ink coverage %,Speck % of ink ↓,Time (s) ↓
+Global (t=127),30.842,3.916,0.006
+Otsu,21.652,1.744,0.012
+Adaptive (C=25),10.915,3.95,0.09
